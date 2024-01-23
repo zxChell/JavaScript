@@ -128,12 +128,153 @@
 // num--;
 // alert(num);
 
+//////////////////////////////////////////////////////
 
+// let a = parseInt(prompt('Напишите число', ));
+// if (a == 10){
+//     console.log('верно')
+// }else{
+//     console.log('неверно')
+// }
 
+//////////////////////////////////////
 
+/// Задача 2
 
+/// Задача 3
 
+///////////////////////////////
 
+// let a = parseInt(prompt('Напишите число', ));
+// if (a == 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
 
+// let a = parseInt(prompt('Напишите число', ));
+// if (a > 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
 
+// let a = parseInt(prompt('Напишите число', ));
+// if (a < 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
+    
+// let a = parseInt(prompt('Напишите число', ));
+// if (a >= 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
 
+// let a = parseInt(prompt('Напишите число', ));
+// if (a <= 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// if (a != 0) {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
+
+// let a = prompt('Напишите число', );
+// if (a == 'test') {
+//     console.log('true');
+// }else{
+//     console.log('false');
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// if (a == parseInt(1) || a > 1){
+//     console.log('неверно')
+// }else{
+//     console.log('верно')
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// if (a > 0 && a < 5){
+//     console.log('верно')
+// }else{
+//     console.log('неверно')
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// if (a == 0 || a == 2){
+//     console.log(a + 7)
+// }else{
+//     console.log(a / 10)
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// let b = parseInt(prompt('Напишите число', ));
+// if (a <= 1 && b >= 3){
+//     console.log(a + b)
+// }else{
+//     console.log(a - b)
+// };
+
+// let a = parseInt(prompt('Напишите число', ));
+// let b = parseInt(prompt('Напишите число', ));
+// if (a > 2 && a < 11 || b >= 6 && b < 14){
+//     console.log('верно')
+// }else{
+//     console.log('неверно')
+// };
+
+// let x = prompt('выберете вариант 1 , 2 , 3 , 4 ', );
+// switch(x){
+//     case '1':
+//         alert('зима');
+//         break;
+//     case '2':
+//         alert('весна');
+//         break;
+//     case '3':
+//         alert('лето');
+//         break;
+//     case '4':
+//         alert('осень');
+//         break;    
+// };
+
+//////////////////////////////////////
+
+/// Задача 2
+
+/// Задача 3
+
+///////////////////////////////
+
+// let x = 'abcde'
+// if (x[0] == 'a') {
+//     console.log('да')
+// }else{
+//     console.log('нет')
+// };
+
+// let x = '12345';
+// if (x[0]+ x[1] + x[2] == 123) {
+//     console.log('да')
+// }else{
+//     console.log('нет')
+// };
+
+// let x = String(123);
+// console.log((Number(x[0])) + (Number(x[1])) + (Number(x[2])));
+
+// let x = String(123456);
+// if ((Number(x[0])) + (Number(x[1])) + (Number(x[2])) == (Number(x[3])) + (Number(x[4])) + (Number(x[5]))){
+//     console.log('да')
+// }else{
+//     console.log('нет')
+// };
